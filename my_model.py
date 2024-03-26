@@ -4,3 +4,5 @@ def my_model(x):
   return m*x+b
 
 print("Hey, I'm an arbitrary change to the code!")
+
+print("Hey I'm an update by Terry. I changed the code.")
